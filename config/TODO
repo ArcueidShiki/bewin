@@ -1,0 +1,17 @@
+1. Develop environment
+2. Test environment
+3. Production environment
+
+
+configurations includes:
+
+1. docker: container
+2. nginx: proxy and load balance
+3. elasticsearch
+4. Jenkins CI/CD
+5. kubernetes
+6. github workflow file.
+7. cloud config: AWS / Azure.
+8. message queue config: RabbitMQ / Kafka
+9. Code format check config.
+10. ip and ports config.
