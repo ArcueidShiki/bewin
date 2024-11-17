@@ -1,0 +1,14 @@
+log system: drogon built-in logsystem or syslog.
+identify errors, bugs
+For bugfixing purpose.
+
+temporary files management
+remove files (LRU)
+
+Warning: once the system get into error or shutdown(process are terminated, send message to developer
+and save core dump files and restart the process. check database, restore the database etc.
+)
+
+For monitoring:
+htop
+netdata
